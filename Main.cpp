@@ -1,4 +1,4 @@
-/ Main.cpp
+// Main.cpp
 // Group 2 - 
 
 #include <iostream>
